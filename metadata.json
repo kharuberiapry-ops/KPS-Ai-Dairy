@@ -1,0 +1,6 @@
+{
+  "name": "KPS Digital Diary",
+  "description": "AI-Powered Student Learning Platform for Kharuberia Primary School",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
